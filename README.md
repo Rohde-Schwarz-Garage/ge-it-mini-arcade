@@ -2,7 +2,7 @@
 
 Dokumentation zum Bau einer Retro-Spielekonsole
 
-<img src="MD_Images/titlepic.png" width="300"/>
+<img src="MD_Images/titlepic.png" width="600"/>
 
 ## Inhalt
 
