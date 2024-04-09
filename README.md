@@ -2,8 +2,6 @@
 
 Dokumentation zum Bau einer Retro-Spielekonsole
 
-<img src="MD_Images/titlepic.png" width="300"/>
-
 ## Inhalt
 
 1. [Einleitung](#1-einleitung)
